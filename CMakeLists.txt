@@ -1,7 +1,7 @@
-# CellFun - A Matlab functional programming support library with useful cousins to the built-in Matlab cellfun()
+# CellFun - A functional programming oriented library for matlab CellArray manipulation.
 #
 # Mark J. Olah (mjo@cs.unm DOT edu)
-# Copyright 2017-2019
+# Copyright 2013-2019
 # Licensed under the Apache License, Version 2.0
 # https://www.apache.org/licenses/LICENSE-2.0
 # See: LICENSE file
