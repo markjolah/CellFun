@@ -15,7 +15,6 @@ option(OPT_INSTALL_TESTING "Install testing executables" OFF)
 option(OPT_EXPORT_BUILD_TREE "Configure the package so it is usable from the build tree.  Useful for development." OFF)
 option(OPT_MATLAB_INSTALL_DISTRIBUTION_STARTUP "Install an additional copy of startup${PACKAGE_NAME}.m at the INSTALL_PREFIX root in addition to the normal directory.  Set only if this is the primary Matlab target for a standalone distribution archive." Off)
 
-
 message(STATUS "OPTION: BUILD_TESTING: ${BUILD_TESTING}")
 message(STATUS "OPTION: OPT_DOC: ${OPT_DOC}")
 message(STATUS "OPTION: OPT_INSTALL_TESTING: ${OPT_INSTALL_TESTING}")
