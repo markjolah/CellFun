@@ -1,9 +1,8 @@
-
 #!/bin/bash
 # scripts/matlab-dist-build.sh <INSTALL_DIR> <cmake-args...>
 #
-# Builds a Matlab-only redistributable release. A top-level startup@PACKAGE_NAME@.m will be created, which can be
-# called in matlab to initialized all required matla code paths and dependencies.
+# Builds a Matlab-only re-distributable release. A top-level startup@PACKAGE_NAME@.m will be created, which can be
+# called in matlab to initialized all required Matlab code paths and dependencies.
 #
 # Args:
 #  <cmake_args...> - additional cmake arguments.
